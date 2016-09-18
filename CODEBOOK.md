@@ -6,6 +6,7 @@ Subject ID - a unique identifier for each test subject
 Activity ID - a number that corresponds to the type of activity the subject was performing when the data was measured.
 
 Activity Key
+
 1 - Walking : subject was was walking
 
 2 - Walking Upstairs: subject was walking up a set of stairs
